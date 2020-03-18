@@ -1,0 +1,2 @@
+my_password = "This1sMyPa$$"
+print(my_password)
